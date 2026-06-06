@@ -64,18 +64,6 @@ Suggest refactoring opportunities for this repository.
 
 ---
 
-## 🎨 Design Philosophy
-
-RefactorIQ follows a **Cognitive Typography System** designed to reduce developer fatigue and improve information scanning.
-
-| Typography | Purpose |
-|------------|----------|
-| Slab Serif | Headings & metrics |
-| Sans Serif | Main interface content |
-| Monospace | Logs, code blocks, terminal output |
-| Serif | Secondary navigation & labels |
-| Script | Brand identity accents |
-
 ---
 
 ## 🏗️ System Architecture
@@ -115,63 +103,9 @@ Repository
 4. **Visualization** → Display optimized architecture and metrics.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js v18+
-- npm, yarn, or pnpm
-
-### Installation
-
-```bash
-git clone https://github.com/Lovishka/RefactorIQ.git
-cd RefactorIQ
-npm install
-```
-
-### Run Development Server
-
-```bash
-npm run dev
-```
-
-### Build for Production
-
-```bash
-npm run build
-```
-
----
-
-## 📁 Project Structure
-
-```text
-RefactorIQ/
-├── src/
-├── components/
-├── services/
-├── analytics/
-├── visualizer/
-├── public/
-├── package.json
-└── README.md
-```
-
 ---
 
 ## 🔒 Security & Performance
-
-### Zero-Secret Policy
-
-Sensitive files and credentials are excluded from version control using:
-
-```bash
-.gitignore
-.env
-.env.local
-```
 
 ### Performance Optimization
 
@@ -192,26 +126,6 @@ Sensitive files and credentials are excluded from version control using:
 - [ ] Enterprise compliance auditing
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Submit a Pull Request
-
-For major architectural changes, please open an issue first for discussion.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
 ### Built with ❤️ for cleaner, faster, and more maintainable codebases.
